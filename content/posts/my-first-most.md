@@ -1,8 +1,13 @@
 ---
 title: "My First Most"
 date: 2023-02-07T22:53:34-05:00
-draft: true
+slug: first
 ---
 
 Hola
+{{< highlight kotlin "linenos=table" >}}
+fun main() {
+    println("hola mundo!!!")
+}
+{{< / highlight >}}
 
