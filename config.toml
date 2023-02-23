@@ -2,3 +2,15 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Derek Briggs'
 theme = 'hyde'
+
+[Menus]
+	main = [
+		{Name = "Github", URL = "https://github.com/Derek52/"},
+		{Name = "Gitlab", URL = "https://gitlab.com/Derek52"},
+		{Name = "Itch", URL = "https://derek52.itch.io/"},
+		{Name = "Contact me", URL = "mailto:contact@derekbriggs.xyz"},
+		{Name = "About", URL = "/about"}
+	]
+
+[params]
+	description = "Jack of all trades. Master of a couple."
