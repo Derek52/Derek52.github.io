@@ -1,1 +1,1 @@
-A blog made with [Hugo](https://gohugo.io/)
+A simple, stylish blog made with the awesome static site generator, [Hugo](https://gohugo.io/)
