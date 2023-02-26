@@ -8,7 +8,7 @@ draft: false
 I've had my own little blog for several years, and it has been, annoying. I was on a DIY kick and built my blog from scratch using the Ruby gem, [Sinatra](https://sinatrarb.com/).
 Now, Sinatra is awesome, and I had fun writing my site from scratch, but, it was the wrong solution for me. It was over-engineered and was too much work to maintain. The downsides were so severe, that for months now, I've mostly been avoiding using it.
 
-So, I made a new blog, this one, with a static site generator called [Hugo](https://gohugo.io/). Moving away from the Ruby version of my site had trade-offs, but, for a blog migrating to Hugo was the right move.
+So, I made a new blog, this one, with a static site generator called [Hugo](https://gohugo.io/). Static site generators have their trade-offs and limitations. For one, I've given up a lot of control over my website. An SSG will not let you make a dynamic web app. You lose a lot of the power you have in writing your website from scratch. I feel that for a site as simple as this blog, the benefits greatly outweigh the trade-offs however.
 
 
 ## Why a Static Site Generator?
