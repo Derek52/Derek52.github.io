@@ -1,7 +1,12 @@
-A simple, stylish blog made with the awesome static site generator, [Hugo](https://gohugo.io/)
+A simple, stylish blog made with the awesome static site generator, [Hugo](https://gohugo.io/) and the great [Hyde](https://github.com/spf13/hyde) theme.
 
-I am using the awesome [Hyde](https://github.com/spf13/hyde) theme. Run
+
+# Build Instructions
+
+Add the Hyde theme as a git submodule
 
 `./getHydeTheme`
 
-to add the theme as a submodule. The website won't properly build without this.
+Run the hugo server, in draft mode to show unpublished content
+
+`hugo server -D`

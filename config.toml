@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://derekbriggs.xyz'
 languageCode = 'en-us'
 title = 'Derek Briggs'
 theme = 'hyde'
@@ -13,4 +13,4 @@ theme = 'hyde'
 	]
 
 [params]
-	description = "Jack of all trades. Master of a couple."
+	description = "Professional Dabbler"
