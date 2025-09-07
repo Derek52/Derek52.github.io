@@ -1,9 +1,0 @@
-[submodule "themes/anatole"]
-	path = themes/anatole
-	url = https://github.com/lxndrblz/anatole.git
-[submodule "themes/themes/hyde"]
-	path = themes/themes/hyde
-	url = https://github.com/spf13/hyde.git
-[submodule "themes/hyde"]
-	path = themes/hyde
-	url = https://github.com/spf13/hyde.git
