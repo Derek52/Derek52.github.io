@@ -1,3 +1,0 @@
-#!/bin/bash
-#adds the Hyde theme I am using as a git submodule
-git clone https://github.com/spf13/hyde.git themes/hyde/
