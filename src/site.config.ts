@@ -2,16 +2,16 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://multiterm.stelclementine.com',
+  site: 'https://derekbriggs.xyz',
   // The name of your site, used in the title and for SEO.
-  title: 'MultiTerm',
+  title: 'Derek Briggs',
   // The description of your site, used for SEO and RSS feed.
   description:
-    'A coder-ready Astro blog theme with 59 of your favorite color schemes to choose from',
+    'A programming blog built with Astro',
   // The author of the site, used in the footer, SEO, and RSS feed.
-  author: 'Katy Kookaburra',
+  author: 'Derek Briggs',
   // Keywords for SEO, used in the meta tags.
-  tags: ['Astro', 'Terminal', 'Theme', 'MultiTerm', 'stelcodes'],
+  tags: ['Linuxx', 'Programming', 'blog'],
   // Path to the image used for generating social media previews.
   // Needs to be a square JPEG file due to limitations of the social card generator.
   // Try https://squoosh.app/ to easily convert images to JPEG.
@@ -42,7 +42,7 @@ const config: SiteConfig = {
     },
     {
       name: 'GitHub',
-      url: 'https://github.com/stelcodes/multiterm-astro',
+      url: 'https://github.com/kwebio/kweb-core',
       external: true,
     },
   ],
@@ -151,7 +151,7 @@ const config: SiteConfig = {
   },
   // Social links to display in the footer.
   socialLinks: {
-    github: 'https://github.com/stelcodes/multiterm-astro',
+    github: 'https://github.com/kwebio/kweb-core',
     mastodon: 'https://github.com/stelcodes/multiterm-astro',
     email: 'https://github.com/stelcodes/multiterm-astro',
     linkedin: 'https://github.com/stelcodes/multiterm-astro',
