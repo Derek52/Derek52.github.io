@@ -8,7 +8,6 @@ import { getCollection, render, type CollectionEntry } from 'astro:content'
 import PostAddendum from '~/components/PostAddendum.astro'
 import TableOfContents from '~/components/TableOfContents.astro'
 import { Image } from 'astro:assets'
-import GiscusLoader from '~/components/GiscusLoader.astro'
 import siteConfig from '~/site.config'
 import Tags from '~/components/Tags.astro'
 import PostInfo from '~/components/PostInfo.astro'
@@ -140,14 +139,6 @@ if (postData.tags && postData.tags.length > 0) {
         {next && <PostPreview post={next} />}
       </section>
     ) : null
-  }
-  {
-    siteConfig.giscus && (
-      <section>
-        <DividerText text="Comments" />
-        <GiscusLoader />
-      </section>
-    )
   }
   <ScrollUpButton />
 </Layout>
