@@ -7,5 +7,9 @@ tags: ['Junie', 'Claude', 'LLM', 'Copilot', 'Kotlin']
 ---
 Writing with Junie
 
-![Fish Whisperer Diagram](./fish-whisperer.drawio.png)
+<figure>
+  ![Fish Whisperer Diagram](./fish-whisperer.drawio.png)
+  <figcaption>architecture diagram</figcaption>
+</figure>
 
+![Fish Whisperer Diagram](./fish-whisperer.drawio.png)
